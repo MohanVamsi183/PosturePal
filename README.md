@@ -85,10 +85,4 @@ You can modify the posture correction sensitivity or the alert frequency in the 
 - Add machine learning-based posture correction improvement suggestions.
 - Integrate with wearable devices for improved tracking.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-This should be a solid start for your README!
