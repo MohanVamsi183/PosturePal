@@ -1,6 +1,3 @@
-Here's a modified version of the README content with the updated project and file names:
-
----
 
 # PosturePal: Real-Time Posture Correction Using Computer Vision
 
